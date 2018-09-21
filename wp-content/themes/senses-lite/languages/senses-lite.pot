@@ -1,0 +1,1110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Senses Lite\n"
+"POT-Creation-Date: 2017-02-09 16:03-0800\n"
+"PO-Revision-Date: 2016-04-07 13:15-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:43
+msgid "404"
+msgstr ""
+
+#: 404.php:44
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:45
+msgid ""
+"It appears the page you were wanting to see is either missing, no longer "
+"available, or another problem has caused this error."
+msgstr ""
+
+#: 404.php:46
+msgid "Back to Home"
+msgstr ""
+
+#: author-bio.php:23
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:27
+#, php-format
+msgid "View articles written by %s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:61
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:62
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:55
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:56
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Bottom Social Menu"
+msgstr ""
+
+#: functions.php:125
+msgctxt "Old Standard TT font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:53
+msgid "Menu"
+msgstr ""
+
+#: image.php:48 inc/template-tags.php:231 template-parts/content-page.php:32
+msgid "Pages:"
+msgstr ""
+
+#: image.php:52 inc/template-tags.php:235
+msgid "Page"
+msgstr ""
+
+#: image.php:77
+msgid "Edit this media"
+msgstr ""
+
+#: inc/custom-header.php:13
+msgctxt "This is the default header image for the theme"
+msgid "Default Image"
+msgstr ""
+
+#: inc/customizer.php:14
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Theme Support"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Please Rate Senses Lite"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Get the Pro Version"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Site Title &amp; Logo Spacing"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Show the WP Header Image"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Header Background size"
+msgstr ""
+
+#: inc/customizer.php:98 inc/customizer.php:1212
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer.php:99 inc/customizer.php:1213
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer.php:100 inc/customizer.php:1214
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Header Background Position"
+msgstr ""
+
+#: inc/customizer.php:112 inc/customizer.php:1198 inc/customizer.php:1275
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:113 inc/customizer.php:1199
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer.php:114 inc/customizer.php:1200
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Header Background Overlay Colour"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Header Overlay Opacity"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Boxed Style"
+msgstr ""
+
+#: inc/customizer.php:169 inc/customizer.php:287 inc/customizer.php:1227
+#: inc/customizer.php:1261
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:170 inc/customizer.php:1228
+msgid "Boxed 1920px Width"
+msgstr ""
+
+#: inc/customizer.php:171 inc/customizer.php:1229
+msgid "Boxed 1600px Width"
+msgstr ""
+
+#: inc/customizer.php:172 inc/customizer.php:1230
+msgid "Boxed 1400px Width"
+msgstr ""
+
+#: inc/customizer.php:173 inc/customizer.php:1231
+msgid "Boxed 1200px Width"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Show the Demo Banner Image"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid ""
+"Show or hide the demo banner image. This can also be disabled once you "
+"publish a widget in the Banner sidebar."
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Show Boxed Shadow"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid ""
+"Show the outer shadow (glow) when you use the boxed style layout for your "
+"pages."
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Show Navigation Shadow"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Show the navigation bottom shadow."
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Load Font Awesome"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Load Font Awesome if not you are not using a plugin for it."
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Show Edit Link"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Show the Edit Link on posts and pages."
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:270 inc/customizer.php:1244
+msgid "Top Featured Image Centered"
+msgstr ""
+
+#: inc/customizer.php:271 inc/customizer.php:1245
+msgid "Top Featured Image Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:272 inc/customizer.php:1246
+msgid "Top Featured Image Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Single Style"
+msgstr ""
+
+#: inc/customizer.php:285 inc/customizer.php:1259
+msgid "Right Column Layout"
+msgstr ""
+
+#: inc/customizer.php:286 inc/customizer.php:1260
+msgid "Left Column Layout"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Content or Excerpt"
+msgstr ""
+
+#: inc/customizer.php:302 inc/customizer.php:1291
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:303 inc/customizer.php:1292
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Show Summary Post Date"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Show the Post Date on blog summary posts."
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Show Summary Post Author"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Show the author name on blog summary posts."
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Show Summary Comments Link"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Show the comments link on blog summary posts."
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Show Full Post Featured Image"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "Show the Featured Image on the full post view."
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Show Full Post Categories List"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Show the list of categories at the bottom of each full post."
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Show Full Post Tags List"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Show the list of tags at the bottom of each full post."
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Show Full Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid ""
+"Show the Next and Previous post navigation at the bottom of each full post."
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Show Full Post Author Bio"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Show the Author Bio at the bottom of each full post."
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Page Background"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:460
+msgid "Site Description"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Mobile Menu Toggle Button Background"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Mobile Menu Toggle Button Label"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Mobile Menu Toggle Button Hover and Active Colour Background"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Mobile Menu Toggle Button Hover and Active Colour Label"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Mobile Menu Background Colour"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Mobile Menu Separator Lines"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Mobile Menu Item Colour"
+msgstr ""
+
+#: inc/customizer.php:548
+msgid "Mobile Menu Item Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Navigation Background"
+msgstr ""
+
+#: inc/customizer.php:570
+msgid "Navigation Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Navigation Top Border"
+msgstr ""
+
+#: inc/customizer.php:592
+msgid "Navigation Bottom Border"
+msgstr ""
+
+#: inc/customizer.php:603
+msgid "Navigation Link Colour"
+msgstr ""
+
+#: inc/customizer.php:614
+msgid "Navigation Link Active/Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:625
+msgid "Navigation Submenu Colour"
+msgstr ""
+
+#: inc/customizer.php:636
+msgid "Navigation Submenu Border"
+msgstr ""
+
+#: inc/customizer.php:647
+msgid "Banner Background"
+msgstr ""
+
+#: inc/customizer.php:658
+msgid "Content Area Background"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Content Area Text"
+msgstr ""
+
+#: inc/customizer.php:680
+msgid "Bottom Sidebar area Background"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Bottom Sidebar Text"
+msgstr ""
+
+#: inc/customizer.php:700
+msgid "Bottom Sidebar Links"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Bottom Sidebar Hover Links"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Bottom List Border Colour"
+msgstr ""
+
+#: inc/customizer.php:733
+msgid "Bottom Border"
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Content Links"
+msgstr ""
+
+#: inc/customizer.php:758
+msgid "Content Hover Links"
+msgstr ""
+
+#: inc/customizer.php:770
+msgid "Content Headings"
+msgstr ""
+
+#: inc/customizer.php:781
+msgid "Post Summary Title Colour"
+msgstr ""
+
+#: inc/customizer.php:791
+msgid "Post Summary Title Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "Meta Entry Info Colour"
+msgstr ""
+
+#: inc/customizer.php:813
+msgid "More Link (Read More) Colour"
+msgstr ""
+
+#: inc/customizer.php:824
+msgid "More Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:835
+msgid "Left &amp; Right Column List Links"
+msgstr ""
+
+#: inc/customizer.php:846
+msgid "Left &amp; Right Column List Hover Links"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "Left &amp; Right List Border"
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:879
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:890
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:901
+msgid "Button Hover Text"
+msgstr ""
+
+#: inc/customizer.php:912
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:934
+msgid "Footer Link Colour"
+msgstr ""
+
+#: inc/customizer.php:945
+msgid "Footer Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:956
+msgid "Social Icon Background"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Social Icon Colour"
+msgstr ""
+
+#: inc/customizer.php:977
+msgid "Social Icon Hover Background"
+msgstr ""
+
+#: inc/customizer.php:987
+msgid "Social Icon Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:999
+msgid "Sticky Featured Label Background"
+msgstr ""
+
+#: inc/customizer.php:1009
+msgid "Sticky Featured Label Colour"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "Back to Top Button Background"
+msgstr ""
+
+#: inc/customizer.php:1031
+msgid "Back to Top Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Back to Top Button Text"
+msgstr ""
+
+#: inc/customizer.php:1052
+msgid "Quote Post Format Background"
+msgstr ""
+
+#: inc/customizer.php:1063
+msgid "Quote Post Format Text"
+msgstr ""
+
+#: inc/customizer.php:1074
+msgid "Image Post Format Title"
+msgstr ""
+
+#: inc/customizer.php:1085
+msgid "Copyright Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1096
+msgid "Image Caption Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1106
+msgid "Error Page"
+msgstr ""
+
+#: inc/customizer.php:1116
+msgid "Error Middle Background"
+msgstr ""
+
+#: inc/customizer.php:1126
+msgid "Error Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1136
+msgid "Error Button Background"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid "Error Button Label Colour"
+msgstr ""
+
+#: inc/customizer.php:1156
+msgid "Error Button Border"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Logo to the Left and Menu Right"
+msgstr ""
+
+#: inc/customizer.php:1185
+msgid "Centered Logo and Menu Below"
+msgstr ""
+
+#: inc/customizer.php:1274
+msgid "Left Position"
+msgstr ""
+
+#: inc/customizer.php:1276
+msgid "Top Centered"
+msgstr ""
+
+#: inc/extras.php:57 template-parts/content.php:43
+msgid "Continue"
+msgstr ""
+
+#: inc/extras.php:83
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/sidebars.php:12
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:14
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:21
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:23
+msgid "Left sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:30
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:39
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:41
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:49
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:51
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:59
+msgid "Content Top 1"
+msgstr ""
+
+#: inc/sidebars.php:61
+msgid "Content Top 1 position"
+msgstr ""
+
+#: inc/sidebars.php:68
+msgid "Content Top 2"
+msgstr ""
+
+#: inc/sidebars.php:70
+msgid "Content Top 2 position"
+msgstr ""
+
+#: inc/sidebars.php:77
+msgid "Content Top 3"
+msgstr ""
+
+#: inc/sidebars.php:79
+msgid "Content Top 3 position"
+msgstr ""
+
+#: inc/sidebars.php:86
+msgid "Content Top 4"
+msgstr ""
+
+#: inc/sidebars.php:88
+msgid "Content Top 4 position"
+msgstr ""
+
+#: inc/sidebars.php:96
+msgid "Content Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:98
+msgid "Content Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:105
+msgid "Content Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:107
+msgid "Content Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:114
+msgid "Content Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:116
+msgid "Content Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:123
+msgid "Content Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:125
+msgid "Content Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:133
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:135
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:142
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:144
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:151
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:153
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:160
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:162
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:170
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:172
+msgid "This is breadcrumbs position but can be used for other things"
+msgstr ""
+
+#: inc/sidebars.php:180
+msgid "Footer"
+msgstr ""
+
+#: inc/sidebars.php:182
+msgid ""
+"This is a sidebar position that sits above the footer menu and copyright"
+msgstr ""
+
+#: inc/template-tags.php:36 inc/template-tags.php:43
+#: template-parts/content-aside.php:17 template-parts/content-quote.php:28
+msgid "Untitled"
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:110 inc/template-tags.php:168
+msgctxt "Used After post format."
+msgid "Post"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Edit this Post"
+msgstr ""
+
+#: inc/template-tags.php:155
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:160
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:191 inc/template-tags.php:198
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:193
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:200
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:214
+#, php-format
+msgid "Edit this post %s"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:259
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:270
+msgid "Next Article"
+msgstr ""
+
+#: inc/template-tags.php:271
+msgid "Next Article:"
+msgstr ""
+
+#: inc/template-tags.php:274
+msgid "Previous Article"
+msgstr ""
+
+#: inc/template-tags.php:275
+msgid "Previous Article:"
+msgstr ""
+
+#: inc/template-tags.php:298
+#, php-format
+msgid "Posts Tagged with %s"
+msgstr ""
+
+#: inc/template-tags.php:300
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: inc/template-tags.php:302
+#, php-format
+msgid "Articles from: %s"
+msgstr ""
+
+#: inc/template-tags.php:302
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:304 inc/template-tags.php:306
+#, php-format
+msgid "Articles from %s"
+msgstr ""
+
+#: inc/template-tags.php:304
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:306
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:309
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:311
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:313
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:315
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:317
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:319
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:321
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:323
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:325
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:328
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:332
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:334
+msgid "Archives"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13 searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: sidebar-banner.php:18
+msgid " Explore Nature's Beauty"
+msgstr ""
+
+#: sidebar-banner.php:18
+msgid "Photographic Blogging"
+msgstr ""
+
+#: template-parts/content-image.php:21 template-parts/content.php:27
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-image.php:35
+msgid "See More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:44
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Senses Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.shapedpixels.com/free-wordpress-themes/senses-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Senses Lite theme offers a popular and trending design concept for "
+"personal and business blogging. Easy to customize with tons of options and "
+"great features, you can personalize it to your specific needs, starting with "
+"clean modern design, a powerful responsive framework that is built with "
+"html5 and css3, unlimited colours, 3 blog styles with 3 full post layouts, 5 "
+"boxed layouts, 19 sidebar positions, add text to your image banners, show or "
+"hide various page elements, several page templates, RTL option, customizable "
+"header, page background, post formats, custom gallery styling, and so much "
+"more! For theme info, support and more, visit the Senses Lite Info under the "
+"Appearance menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shaped Pixels"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.shapedpixels.com"
+msgstr ""

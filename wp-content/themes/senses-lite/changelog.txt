@@ -1,0 +1,119 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+-------------------------------------------------------
+    CHANGELOG Version Numbers
+-------------------------------------------------------
+
+[major].[minor].[patch]
+
+These 3 levels are defined as:
+
+1. An increment in the major version indicates a break in backward compatibility.
+2. An increment in the minor version indicates the addition of new features or a significant change to existing features.
+3. An increment in the patch version indicates that minor features have been changed or bugs have been fixed.
+
+-------------------------------------------------------
+    Changes Made to this Theme
+-------------------------------------------------------
+
+September 18, 2017 - 1.1.0
+--------------------------------------
+- Fixed the stylesheet theme url link
+- Added option to hide or show author link in footer
+
+
+
+February 9, 2017 - 1.0.11
+--------------------------------------
+- Fixed top alignment for content and sidebar columns to be equal
+- Fixed broken links using http to have https
+- Changed the logo setting to use the required WordPress method
+- Updated the language .pot file for translation
+
+
+October 13, 2016 - 1.0.10
+--------------------------------------
+- Updated the theme's URLs from http to https
+- Moved the Bootstrap containers outside of the <main> containers for better structure with plugins that caused breakage
+
+
+July 11, 2016 - 1.0.9
+--------------------------------------
+- Fixed the problem of the full post view having the sidebar float below the content too soon compared to the blog home view.
+
+
+June 1, 2016 - 1.0.8
+--------------------------------------
+- Removed a broken span tag on the comments date line
+- Added a submenu background colour setting
+- Separated the post summary entry title colour settings to be on their own and added a hover colour setting
+- Added CSS adjustment to the gallery item thumbnail sizing - Firefox caused thumbnail to go very large
+- Updated the senses-lite.pot language file.
+
+
+April 24, 2016 - 1.0.7
+--------------------------------------
+- Fixed the blog post navigation that was not clickable
+
+
+April 7, 2016 - 1.0.6
+--------------------------------------
+- Added a colour option setting for footer links
+- Added a colour option setting for image caption text
+- Removed the theme info from the Appearance menu group in the admin
+- Updated the senses-lite.pot language file
+
+
+February 28, 2016 - 1.0.5
+--------------------------------------
+- Fixed an issue of the submenu hiding behind sliders.
+- Fixed a language string issue in the searchform.php for the search button.
+- Removed CSS from the bootstrap CSS file for elements that are not being used but causing issues with certain plugins
+- Added a colour setting for the copyright footer
+
+
+February 11, 2016 - 1.0.4
+--------------------------------------
+- Fixed the Header Image colour overlay setting due to not taking effect on the front-end of the site.
+- Fixed a few language strings that were showing HTML code in the front-end
+- Added mobile menu colour options to the customizer
+- Changed the logo upload customizer code to be the standard image control and setting.
+- Re-generated and updated the senses-lite.pot language file.
+
+
+January 25, 2016 - 1.0.3
+--------------------------------------
+- Removed unused upload sanitization code from the customizer
+- Removed code from the extras.php file that fixes a bug in the default editor when using shortcodes...not needed here.
+- Added the missing wp_footer() to the error.php template.
+- Changed the excerpt method to use the WordPress filter.
+- Regenerated and Updated the senses-lite.pot language file.
+- Added credit for the _s theme which Senses Lite uses some code from.
+
+
+January 3, 2016 - 1.0.2
+--------------------------------------
+- Added a copyright line in the style.css
+- Removed custom content fields from the customizer for the error page
+- Recoded the error page content translation strings to work.
+- Removed custom Read More and Featured (sticky) labels from the theme (not translateable)
+- Updated the senses-lite.pot language file
+
+
+December 27, 2015 - 1.0.1
+--------------------------------------
+- A demo banner was added to the banner sidebar, including an option setting to disable it from the customizer
+- Fixed some language strings that were not getting translated
+- Updated the senses-lite.pot language file
+
+
+October 14, 2015 - 1.0.0
+--------------------------------------
+- Theme Released

@@ -1,0 +1,319 @@
+/* Theme CSS for the editor */
+
+body {
+	max-width: 1140px;
+	background-color: #f3f3f3;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.875rem;
+	line-height: 1.65;
+	color: #656565;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+}
+
+hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+table {
+	margin: 0 0 1.5em;
+	width: 100%;  
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+td,
+th {
+  padding: 0;
+}
+
+p {
+	margin: 1.125rem 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Old Standard TT", "Times New Roman", serif;
+	clear: both;
+	margin: 0; 
+	font-weight: 400;
+	line-height: 1.2;
+	letter-spacing: -1px;
+	color: #353535;
+}
+h1 {
+	font-size: 1.938rem;
+}
+h2 {
+	font-size: 1.813rem;
+}
+h3 {
+	font-size: 1.625rem;
+}
+h4 {
+	font-size: 1.5rem;
+}
+h5 {
+	font-size: 1.25rem;
+}
+h6 {
+	font-size: 1rem;
+}
+h5, h6 {
+	letter-spacing:normal;
+}
+
+
+/* Text alignment */
+.text-left,
+.text-center,
+.text-right,
+.text-justify {
+	display:block;
+}
+.text-left {
+	text-align: left;
+}
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+.text-justify {
+	text-align: justify;
+}
+
+/* Text transform */
+.text-lowercase {
+	text-transform: lowercase;
+}
+.text-uppercase {
+	text-transform: uppercase;
+}
+.text-capitalize {
+	text-transform:capitalize;
+}
+
+/* Text Font weight */
+.text-light {
+	font-weight:300;
+}
+.text-semibold {
+	font-weight:600;
+}
+.text-bold {
+	font-weight:700;
+}
+.text-xbold {
+	font-weight:800;
+}
+
+
+/* Typography Elements */
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+blockquote {
+	margin: 1.5em;
+}
+blockquote p {
+    border-left: 5px solid #d4bea5;
+    color: #999;
+    padding: 0 18px;
+    font-family: "Georgia";
+    font-size: 1rem;
+    line-height: 1.4;
+    font-style: italic;
+}
+
+
+/* Links */
+a, 
+a:visited {
+	color: #af9870;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #a76526;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+/* Lists */
+ul,
+ol {
+	margin: 0 0 1.5rem 3rem;
+	padding:0;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 2rem;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 1.5rem 1.5rem;
+}
+
+
+/* buttons */
+button,
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 400;
+	text-align: center;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-color: #919d74;
+	color: #f3f3f3;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 18px 4px;
+	font-size: 0.813rem;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	line-height: 1.42857143;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-transition: background-color .2s ease-in-out;
+	-moz-transition: background-color .2s ease-in-out;
+	-ms-transition: background-color .2s ease-in-out;
+	-o-transition: background-color .2s ease-in-out;
+	transition: background-color .2s ease-in-out;
+}
+button:focus,
+.btn:focus,
+.btn:active:focus {
+	outline: thin dotted;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px;
+}
+button:hover,
+button:focus,
+.btn:hover,
+.btn:focus {
+	background-color: #303030;
+	color: #f3f3f3;
+	text-decoration: none;
+}
+
+/* Button size */
+.btn-lg {
+	padding: 8px 24px 7px;
+	font-size: 1.125rem;
+	line-height: 1.3333333;
+}
+.btn-sm {
+	padding: 3px 14px;
+	font-size: 0.75rem;
+	line-height: 1.5;
+}
+.btn-xs {
+	padding: 0 12px;
+	font-size: 0.688rem;
+	line-height: 1.5;
+}
+
+/* Button colour */
+button.dark,
+.btn.dark {
+	background-color: #303030;
+}
+button.dark:hover,
+.btn.dark:hover {
+	background-color: #a0a0a0;
+}
+
+
+/* Alignments */
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignnone {
+	margin: 0 0 20px;
+}
+
